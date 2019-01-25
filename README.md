@@ -13,12 +13,14 @@ Database: None as of now, used static CSV file
 Front-end: Angular.js, Bootstrap, JQuery  
 
 ## Future Improvements
+
 Functionality
 1. Search exclusively by Title or Author, etc. (currently searches for matches in all fields)
 2. Advanced Search - use similar terms (search for cat, return kitten books) and relationships (search for history, return biographies)
 3. User profiles to save reading lists, personalize table, etc.
 4. Make books editable
 5. Ability to download the page after making changes
-6. Search for similar books / books on the same topics  
+6. Search for similar books / books on the same topics
+
 Interface
 1. Highlight search matches in results
