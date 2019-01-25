@@ -19,6 +19,6 @@ Functionality
 3. User profiles to save reading lists, personalize table, etc.
 4. Make books editable
 5. Ability to download the page after making changes
-6. Search for similar books / books on the same topics
+6. Search for similar books / books on the same topics  
 Interface
-2. Highlight search matches in results
+1. Highlight search matches in results
