@@ -8,9 +8,9 @@ A web app that helps organize books, find books, and create reading lists.
 My grandfather spent a week creating a spreadsheet of all of the books in our home, so I created an interface to interact with the data he created.
 
 ## Tech Stack
-Back-end: Python Flask
-Database: None as of now, used static CSV file
-Front-end: Angular.js, Bootstrap, JQuery
+Back-end: Python Flask  
+Database: None as of now, used static CSV file  
+Front-end: Angular.js, Bootstrap, JQuery  
 
 ## Future Improvements
 Functionality
