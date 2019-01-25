@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+
+# a document of notes on the project, changes I need to make, etc.
+worklog.txt
+
+# private to our house!
+static/BookList.csv
